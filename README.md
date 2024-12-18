@@ -56,6 +56,4 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
   <a href="https://github.com/kenshin-seigi/convoychat">
     <img height="300" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin-seigi&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&bg_color=ffffff&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
   </a>
-
-  <a hreff="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin-seigi&layout=compact&theme=dark&title_color=dc143c&text_color=dc143c&bg_color=000000&icon_color=dc143c&border_color=dc143c&locale=pt-br"> <img height="300" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kenshin-seigi"/></a>
 </div>
