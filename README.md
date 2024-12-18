@@ -39,10 +39,12 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 <h4 align="center">essas são minhas redes sociais e comunidades 😋</h4>
 
 <div align="center"> 
-  <a href="https://youtube.com/@kenshinryujin?si=v748cM_8SdnAh9Ey" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/kenshin.ryujin?igsh=NXlwdW9pZWEwejIx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://youtube.com/@kenshin-seigi?si=UzUtOO-FH1-8KpCq" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
   <a href="https://discord.gg/yGFxBgzu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- <a href = "mailto:arquivista.oficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+ <a href = "mailto:kenshin.seigi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ 
   <a href="https://geek-pantheon.tech/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 </div>
 
@@ -50,13 +52,13 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 
 <h1 align="center">Abaixo estão as estatísticas e linguagens mais usadas 🚨</h1>
 <div>
-  <a href="https://github.com/kenshin-ryujin/github-readme-stats">
-    <img height="300" width="100%" src="https://github-readme-stats.vercel.app/api?username=kenshin-ryujin&show_icons=true&ring_color=ffffff&text_bold=true&rank_icon=github&bg_color=000000&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
+  <a href="https://github.com/kenshin-seigi/github-readme-stats">
+    <img height="300" width="100%" src="https://github-readme-stats.vercel.app/api?username=kenshin-seigi&show_icons=true&ring_color=ffffff&text_bold=true&rank_icon=github&bg_color=000000&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
   </a>
   
-  <a href="https://github.com/kenshin-ryujin/convoychat">
-    <img height="300" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin-ryujin&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&bg_color=ffffff&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
+  <a href="https://github.com/kenshin-seigi/convoychat">
+    <img height="300" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin-seigi&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&bg_color=ffffff&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
   </a>
 
-  <a hreff="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin-ryujin&layout=compact&theme=dark&title_color=dc143c&text_color=dc143c&bg_color=000000&icon_color=dc143c&border_color=dc143c&locale=pt-br"> <img height="300" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kenshin-ryujin"/> </a>
+  <a hreff="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin-seigi&layout=compact&theme=dark&title_color=dc143c&text_color=dc143c&bg_color=000000&icon_color=dc143c&border_color=dc143c&locale=pt-br"> <img height="300" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kenshin-seigi"/> </a>
 </div>
