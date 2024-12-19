@@ -13,25 +13,19 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 
 <h4 align="center">Essas são as linguagens e tecnologias que estou aprendendo e ainda vou aprender 📚</h4>
 <div align="center">
-  <img align="center" alt="Kenshin html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Kenshin html5" height="30" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   
-  <img align="center" alt="Kenshin css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Kenshin css3" height="30" width="auto" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   
-  <img align="center" alt="Kenshin javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Kenshin javascript" height="30" width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    
-   <img align="center" alt="Kenshin San typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+   <img align="center" alt="Kenshin San typescript" height="30" width="auto" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     
-   <img align="center" alt="kenshin WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+   <img align="center" alt="Kenshin san react" height="30" width="auto" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
           
-   <img align="center" alt="kenshin vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-          
-          
-   <img align="center" alt="Kenshin san react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          
-   <img align="center" alt="kenshin angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+   <img align="center" alt="kenshin angular" height="30" width="auto"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     
-   <img align="center" alt="kenshin Android studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-   <img  align="center" alt="Kenshin Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
+   <img align="center" alt="kenshin java" height="30" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
 #
@@ -43,17 +37,18 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 <a href="https://discord.gg/yGFxBgzu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "mailto:kenshin.seigi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://geek-pantheon.tech/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<a href="https://www.reddit.com/u/kenshin-seigi/s/xzqMOGfxDi">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a hreff="https://pin.it/6F6gPQFgJ">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
 </div>
 
 #
 
 <h1 align="center">Abaixo estão as estatísticas e linguagens mais usadas 🚨</h1>
+
 <div>
   <a href="https://github.com/kenshin-seigi/github-readme-stats">
     <img height="300" width="100%" src="https://github-readme-stats.vercel.app/api?username=kenshin-seigi&show_icons=true&ring_color=ffffff&text_bold=true&rank_icon=github&bg_color=000000&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
-  </a>
-  
-  <a href="https://github.com/kenshin-seigi/convoychat">
-    <img height="300" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin-seigi&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&bg_color=ffffff&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
-  </a>
+</a>
 </div>
