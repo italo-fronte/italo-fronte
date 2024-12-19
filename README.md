@@ -37,8 +37,5 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 
 #
 
-<div>
-  <a href="https://github.com/kenshin-seigi/github-readme-stats">
-    <img height="300" width="100%" src="https://github-readme-stats.vercel.app/api?username=kenshin-seigi&show_icons=true&ring_color=ffffff&text_bold=true&rank_icon=github&bg_color=000000&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
-</a>
-</div>
+<h1 align="center">pequenos passos dados em sequência vencem grandes distâncias!</h1>
+<h3 align="center">Acredite em você mesmo e no seu esforço, o sucesso é inevitável!</h3>
