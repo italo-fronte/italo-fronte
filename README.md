@@ -45,8 +45,6 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 
 #
 
-<h1 align="center">Abaixo estão as estatísticas e linguagens mais usadas 🚨</h1>
-
 <div>
   <a href="https://github.com/kenshin-seigi/github-readme-stats">
     <img height="300" width="100%" src="https://github-readme-stats.vercel.app/api?username=kenshin-seigi&show_icons=true&ring_color=ffffff&text_bold=true&rank_icon=github&bg_color=000000&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
