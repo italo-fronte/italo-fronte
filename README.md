@@ -33,7 +33,7 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 <a href="https://geek-pantheon.tech/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 <a href="https://www.reddit.com/u/kenshin-seigi/s/xzqMOGfxDi">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-  <a hreff="https://pin.it/6F6gPQFgJ">
+  <a hreff="https://pinterest.com/kenshinseigi">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
 </div>
 
