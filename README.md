@@ -40,9 +40,5 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 <a href="https://www.reddit.com/u/kenshin-seigi/s/xzqMOGfxDi">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
-
-### pequenos passos dados em sequência vencem grandes distâncias!
-
-
-### Acredite em você mesmo e no seu esforço, o sucesso é inevitável!
+# Acredite em você mesmo e no seu esforço, o sucesso é inevitável!
 </div>
