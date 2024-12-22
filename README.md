@@ -40,4 +40,4 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 <a href="https://www.reddit.com/u/kenshin-seigi/s/xzqMOGfxDi">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </div>
-<img alt="gif2" height="auto" width="100%" src="https://cdn.discordapp.com/attachments/1304667505423417429/1320321206825783326/42a45f81c257479ae3536035a0097abb.gif?ex=67692c72&is=6767daf2&hm=ff51fbd161000ac56ab3457b1dd585ea9f4d48b8e80cd84980e9cde78e505698&"/>
+<img alt="gif2" height="230px" width="100%" src="https://cdn.discordapp.com/attachments/1304667505423417429/1320381420337627187/gif_002.gif?ex=67696486&is=67681306&hm=c0fa3e8a29f98a9b7910eb48054f7c333c0f7f5e6b3bdd2f792b9814fa764b38&"/>
