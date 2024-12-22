@@ -1,3 +1,8 @@
+
+  <img alt="gif" height="auto" width="100%" src="https://cdn.discordapp.com/attachments/1304667505423417429/1320343135405998140/gif_016.gif?ex=676940de&is=6767ef5e&hm=eb08190f28a070eb633061b84f7b16965a3270c0a0e0efcda78cfcead33de729&"/>
+
+#
+
 <h1 align="center">Olá pessoal! Vocês tão bão? Italo aqui! 👋</h1>
 <div align="center">
 Estou mergulhado em estudos intensos 📖, mas logo estarei pronto pro fight! 🎉
@@ -20,6 +25,7 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 <img alt="Kenshin san react" height="30" width="auto" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="kenshin angular" height="30" width="auto"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img alt="kenshin java" height="30" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="bootstrap" height="30" width="auto" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
 
@@ -27,7 +33,7 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 
 
 <a href="https://youtube.com/@kenshin-seigi?si=UzUtOO-FH1-8KpCq" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/yGFxBgzu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/h77aJNrGws" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "mailto:kenshin.seigi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://geek-pantheon.tech/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 <a href="https://www.reddit.com/u/kenshin-seigi/s/xzqMOGfxDi">
