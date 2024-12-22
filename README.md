@@ -1,5 +1,5 @@
 
-  <img alt="gif" height="auto" width="100%" src="https://cdn.discordapp.com/attachments/1304667505423417429/1320343135405998140/gif_016.gif?ex=676940de&is=6767ef5e&hm=eb08190f28a070eb633061b84f7b16965a3270c0a0e0efcda78cfcead33de729&"/>
+  <img alt="gif" height="230px" width="100%" src="https://cdn.discordapp.com/attachments/1304667505423417429/1320343135405998140/gif_016.gif?ex=676940de&is=6767ef5e&hm=eb08190f28a070eb633061b84f7b16965a3270c0a0e0efcda78cfcead33de729&"/>
 
 #
 
@@ -26,6 +26,7 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 <img alt="kenshin angular" height="30" width="auto"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img alt="kenshin java" height="30" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img alt="bootstrap" height="30" width="auto" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="mysql" height="30" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
 
