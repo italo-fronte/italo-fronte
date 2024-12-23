@@ -1,5 +1,5 @@
 
-  <img alt="banner" height="auto" width="100%" src="https://3a95d1a711.cbaul-cdnwnd.com/4faea8d383f1fd983967e70e0f7c5920/200001176-e794ee7951/1000007862.png?ph=3a95d1a711"/>
+  <img alt="banner" height="230px" width="100%" src="https://3a95d1a711.cbaul-cdnwnd.com/4faea8d383f1fd983967e70e0f7c5920/200001179-0ff280ff2a/450/1000007863.webp?ph=3a95d1a711"/>
 
 #
 
