@@ -1,5 +1,5 @@
 
-  <img alt="gif" height="230px" width="100%" src="https://cdn.discordapp.com/attachments/1304667505423417429/1320343135405998140/gif_016.gif?ex=676940de&is=6767ef5e&hm=eb08190f28a070eb633061b84f7b16965a3270c0a0e0efcda78cfcead33de729&"/>
+  <img alt="banner" height="auto" width="100%" src="https://3a95d1a711.cbaul-cdnwnd.com/4faea8d383f1fd983967e70e0f7c5920/200001175-99e5699e58/1000007861.webp?ph=3a95d1a711"/>
 
 #
 
