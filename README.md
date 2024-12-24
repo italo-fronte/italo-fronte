@@ -1,5 +1,5 @@
 
-  <img alt="banner" height="230px" width="100%" src="https://3a95d1a711.cbaul-cdnwnd.com/4faea8d383f1fd983967e70e0f7c5920/200001179-0ff280ff2a/450/1000007863.webp?ph=3a95d1a711"/>
+  <img alt="banner" height="230px" width="100%" src="https://cdn.discordapp.com/attachments/1304667505423417429/1320812230903730216/9dbd9e807e4d498b454d120c82086f43.gif?ex=676b9e7f&is=676a4cff&hm=259f4c5937eb857c288f858e4c668b71d1b548cd478c7781e53a6f2cf4a206e2&"/>
 
 #
 
@@ -37,6 +37,6 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 <a href="https://discord.gg/h77aJNrGws" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "mailto:kenshin.seigi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://geek-pantheon.tech/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
-<a href="https://www.reddit.com/u/kenshin-seigi/s/xzqMOGfxDi">
+<a href="https://www.reddit.com/r/t5_d702x3/s/XzAUFyRLrxw">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </div>
