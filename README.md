@@ -35,7 +35,6 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 
 <a href="https://youtube.com/@kenshin-seigi?si=UzUtOO-FH1-8KpCq" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/h77aJNrGws" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="https://geek-pantheon.tech/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
-<a href="https://www.reddit.com/r/geek_pantheon/s/sJYOjwqBtJ">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://kenshin-seigi.site/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+
 </div>
