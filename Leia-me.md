@@ -30,7 +30,7 @@ Nesta conta compartilharei meus experimentos de códigos 💻. Se encontrarem er
 
 
 
-### essa é a nossa comunidade cyber otakus😋
+### essa é a nossa comunidade para devs otakus 😋
 
 <a href="https://discord.gg/h77aJNrGws" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
