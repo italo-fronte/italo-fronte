@@ -1,4 +1,4 @@
-< h1 align="center">👋 E aí, pessoal! Tudo certo? Italo na área!</h1>
+<h1 align="center">👋 E aí, pessoal! Tudo certo? Italo na área!</h1>
 
 #
 
