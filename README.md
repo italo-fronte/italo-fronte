@@ -5,9 +5,12 @@
 <p align="center">Tô no meio de uma maratona de estudos 📖, mas logo estarei pronto pro fight! 🎉  
 Aqui vou postar meus experimentos de código 💻 – se acharem bugs ou jeitos de melhorar, <b>mandem seus pitacos!</b> 🤔</p>
 
-
+#
 
 <h3 align="center">Valeu! Contribuições sempre bem-vindas! 🤝</h3>
+
+#
+
 <img align="left" alt="selo" src="https://9bb00315af.cbaul-cdnwnd.com/05d02f7ed8e46f3b4d6befd2632195fd/200000003-5645556457/700/selo-4.webp?ph=9bb00315af" width="50px" height="50px">
 
 
