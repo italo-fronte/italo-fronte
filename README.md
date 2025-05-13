@@ -11,8 +11,6 @@ Aqui vou postar meus experimentos de código 💻 – se acharem bugs ou jeitos 
 
 <h3 align="center">Valeu! Contribuições sempre bem-vindas! 🤝</h3>
 
-<img align="right" alt="selo" src="https://9bb00315af.cbaul-cdnwnd.com/05d02f7ed8e46f3b4d6befd2632195fd/200000003-5645556457/700/selo-4.webp?ph=9bb00315af" width="50px" height="50px">
-
 #
 
 <div align="center">
@@ -29,3 +27,7 @@ Aqui vou postar meus experimentos de código 💻 – se acharem bugs ou jeitos 
 <img alt="bootstrap" height="30" width="auto" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="mysql" height="30" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+#
+
+<img align="right" alt="selo" src="https://9bb00315af.cbaul-cdnwnd.com/05d02f7ed8e46f3b4d6befd2632195fd/200000003-5645556457/700/selo-4.webp?ph=9bb00315af" width="50px" height="50px">
