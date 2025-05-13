@@ -15,9 +15,6 @@ Aqui vou postar meus experimentos de código 💻 – se acharem bugs ou jeitos 
 
 #
 
-
-
-
 <div align="center">
   
 ### Essas são as linguagens e tecnologias que estou aprendendo 📚
